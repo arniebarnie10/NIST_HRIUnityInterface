@@ -1,0 +1,8 @@
+Contraints for kinematics angles for pick and place
+
+J1 Z: -45, 160
+J2 Z: 0, 130
+J3 Z: 0,150
+J4 X: 0,225
+J5 Y: 0,130
+J6 X: 0,180
